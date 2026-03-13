@@ -1,6 +1,6 @@
 # frappe-lms-docker
 
-Production-ready Docker deployment for [Frappe LMS](https://github.com/frappe/lms) with all necessary patches and fixes applied.
+Not-Production-ready Docker deployment for [Frappe LMS](https://github.com/frappe/lms) with all necessary patches and fixes applied.
 DISCLAIMER: I Created this with Claude Pro, it was just meant to be a fix for my personal problem with installing frappe lms, i wont update this and i dont claim any rights on the product. I just thought this could help smb else out. Please check the code yourself and make backups!
 
 ## What's included
